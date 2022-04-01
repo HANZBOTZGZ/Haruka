@@ -2,10 +2,10 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // self or public
-global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
+global.self = true //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
-global.ownername ="Hanz"
+global.ownername ="ʜᴀɴᴢ ᴏғᴄ"
 global.ownernumber = "6288215110787"
 global.botname = "HanzBOTZ"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
