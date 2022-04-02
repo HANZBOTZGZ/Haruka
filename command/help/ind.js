@@ -66,7 +66,7 @@ exports.menu = (prefix, salam, pushname) =>{
 ╭─⬣ *List Menu*
 │ • ${prefix}menu
 │ • ${prefix}help
-│ • ${prefix}haruka
+│ • ${prefix}hanz
 │
 ├ *Download*
 │ • ${prefix}play [query]
